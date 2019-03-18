@@ -1,0 +1,54 @@
+
+body{
+  background:url("5-04.png");
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center center;
+  width:100vw; 
+  height:100vh; 
+  overflow:scroll;
+}
+
+#rectangle{
+ width:1700px;
+ height:150px;
+ background:#FFFFFF;
+ position:absolute; top:2%; left:2%;
+
+}
+
+#home{
+ position:absolute;
+ top:20px;
+ left:18%;
+ width:10%;
+ height:auto;
+}
+
+
+#right_1{
+ position:absolute;
+ top:20px;
+ right:22%;
+ width:10%;
+ height:auto;
+}
+
+#right_2{
+ position:absolute;
+ top:20px;
+ right:10%;
+ width:19%;
+ height:auto;
+}
+
+a:link{color:#FFFFFF;}
+a:visited{color:#FFFFFF;}
+
+#big{
+  width:100%;
+  height:100%;
+  background-color:#0;
+  position:relative;
+}
+
